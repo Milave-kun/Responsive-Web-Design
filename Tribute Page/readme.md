@@ -1,2 +1,3 @@
 # Tribute Page
-![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/9c8f5266-1a23-4965-92c3-52a25637fc65)
+![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/0ca510b2-da35-4e12-aac6-689f1e498992)
+
