@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <h1 id="title">Survey Form</h1>
+        <p id="description">Please fill out the form below to help us improve our services.</p>
+        <form id="survey-form">
+            <div class="form-group">
+                <label id="name-label" for="name">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name" required>
+            </div>
+            <div class="form-group">
+                <label id="email-label" for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Enter your email" required>
+            </div>
+            <div class="form-group">
+                <label id="number-label" for="number">Age:</label>
+                <input type="number" id="number" name="age" min="1" max="120" placeholder="Enter your age" required>
+            </div>
+            <div class="form-group">
+                <label for="dropdown">Which option best describes your current role?</label>
+                <select id="dropdown" name="role" required>
+                    <option value="">Select a role</option>
+                    <option value="student">Student</option>
+                    <option value="full-time-job">Full Time Job</option>
+                    <option value="part-time-job">Part Time Job</option>
+                    <option value="freelancer">Freelancer</option>
+                    <option value="prefer-not-to-say">Prefer not to say</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <p>Would you recommend this service to a friend?</p>
+                <input type="radio" id="definitely" name="recommend" value="definitely" required>
+                <label for="definitely">Definitely</label><br>
+                <input type="radio" id="maybe" name="recommend" value="maybe">
+                <label for="maybe">Maybe</label><br>
+                <input type="radio" id="not-sure" name="recommend" value="not-sure">
+                <label for="not-sure">Not sure</label>
+            </div>
+            <div class="form-group">
+                <p>What do you like about our service? (Check all that apply)</p>
+                <input type="checkbox" id="quality" name="likes" value="quality">
+                <label for="quality">Quality</label><br>
+                <input type="checkbox" id="speed" name="likes" value="speed">
+                <label for="speed">Speed</label><br>
+                <input type="checkbox" id="price" name="likes" value="price">
+                <label for="price">Price</label><br>
+                <input type="checkbox" id="design" name="likes" value="design">
+                <label for="design">Design</label>
+            </div>
+            <div class="form-group">
+                <label for="comments">Any comments or suggestions?</label>
+                <textarea id="comments" name="comments" rows="4" placeholder="Enter your comments here..."></textarea>
+            </div>
+            <button id="submit" type="submit">Submit</button>
+        </form>
+    </main>
+</body>
+</html>
