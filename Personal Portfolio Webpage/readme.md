@@ -1,2 +1,3 @@
 # Personal Portfolio Webpage
-![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/addc1905-5fcb-4723-a726-75334c2adc51)
+![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/aac84669-34c4-48b6-9067-0d18459645f3)
+
