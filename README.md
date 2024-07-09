@@ -1,5 +1,5 @@
 # Responsive Web Design
-i[image](https://cdn.freecodecamp.org/platform/english/images/quincy-larson-signature.svg)
+![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/61288f5a-2e32-4624-9d17-4c26e772c0d8)
 
 ### Personal Portfolio Webpage
 ![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/aac84669-34c4-48b6-9067-0d18459645f3)
