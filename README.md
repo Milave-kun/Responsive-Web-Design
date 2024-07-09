@@ -1,5 +1,5 @@
 # Responsive Web Design
-![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/61288f5a-2e32-4624-9d17-4c26e772c0d8)
+![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/68fccc25-8075-4999-9696-f1e40659584c)
 
 ### Personal Portfolio Webpage
 ![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/aac84669-34c4-48b6-9067-0d18459645f3)
