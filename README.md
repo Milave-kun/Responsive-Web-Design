@@ -1,4 +1,6 @@
 # Responsive Web Design
+Responsive web design adapts website layout and content to fit various screen sizes and devices, ensuring an optimal user experience across desktops, tablets, and mobile phones.
+
 ![image](https://github.com/Milave-kun/Responsive-Web-Design/assets/125982535/68fccc25-8075-4999-9696-f1e40659584c)
 
 ### Personal Portfolio Webpage
